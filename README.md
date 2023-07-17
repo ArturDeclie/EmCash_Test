@@ -1,12 +1,12 @@
 <h2 align="center">EM CASH TESTE</h2><br>
 <hr color = "green"><br>
-<h3 align="center"> O Teste </h3><br>
+<h3 align="center"> O TESTE </h3><br>
 <hr color = "green"><br>
 <p>O desafio consistia em criar APIs REST para cadastro de polígonos (Triangulo e Quadrado) e retornar a soma total de suas áreas.</p><br>
-<h3 align="center"> Linguagens e outras Ferramentas </h3><br>
+<h3 align="center"> LINGUAGENS E OUTRAS FERRAMENTAS </h3><br>
 <hr color = "green"><br>
 <p>Além do PHP(Versão 8.2.8), que era obrigatório, também foram utilizados o Laravel(10x), PHPUnit(10) para testes unitários e o Postman para testar as rotas.</p><br>
-<h3 align="center"> Instruções</h3><br>
+<h3 align="center"> INSTRUÇÕES</h3><br>
 <hr color = "green"><br>
 <p> Instalar primeiramente o Xampp ou outro programa similar.</p><br>
 <p> Utilizando o Xampp importe o arquivo db.sql (Script do banco de dados) pelo PHPmyAdmin.<p>
@@ -16,7 +16,7 @@
 <p>Retangulo: /api/retangulo - "alturaRet", "baseRet".</p>
 <p>Area Total: /api/area-total.</p><br>
 
-<h3 align="center">Teste</h3><br>
+<h3 align="center">TESTES</h3><br>
 <hr color = "green"><br>
 <p>Os testes são bem simples de serem feitos, com o PHPUnit instalado, bastar entrar no diretório pelo terminal e digitar o comando ./vendor/bin/phpunit se quiser ver todos os testes. Agora, se quiser um teste em específico o comando é o mesmo e no fim adiciona o comando -- "Nome do teste", que no caso podem ser RetanguloValidoTest ou RetanguloInvalidoTest e a mesma coisa para os testes de triangulos.</p>
 
